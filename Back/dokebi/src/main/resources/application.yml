@@ -34,9 +34,6 @@ kakao:
 jwt:
   secret: TKxkfgkrhtlvekskehskrkrhtlvekdbTTLTLgkrltlfgek
   
-email:
-  address: kewer9024@ajou.ac.kr
-  password: onfq ycsv evtc bjvo
 
 aes256:
   secret: 12345678901234567890123456789012
